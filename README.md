@@ -1,10 +1,7 @@
-Project Kilo
-============
-
-Culture Glasses
+Culture Glass
 ---------------
 
-*Client: Lance Robson, Metaswitch Networks*
+_This is a fork of my undergraduate group project, which I am continuing to expand on after submission._
 
 Google Glass is an amazing product, but can make the wearer seem a
 little geeky. The goal of this project is to compensate for that, by using
